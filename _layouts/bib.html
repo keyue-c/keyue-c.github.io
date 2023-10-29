@@ -65,7 +65,7 @@
             {%- if forloop.last and author_array_limit == author_array_size -%}and&nbsp;{%- endif -%}
           {%- endif -%}
           {%- if author_is_self -%}
-            <em>{{author.first}} {{author.last}}</em>
+            <strong>{{author.first}} {{author.last}}</strong>
           {%- else -%}
             {%- if coauthor_url -%}
               <a href="{{coauthor_url}}">{{author.first}} {{author.last}}</a>
@@ -115,9 +115,9 @@
         {% if entry.type == "article" -%}
           {%- capture entrytype -%}<em>{{entry.journal}}</em>{%- endcapture -%}
         {%- elsif proceedings contains entry.type -%}
-          {%- capture entrytype -%}<em>In {{entry.booktitle}}</em> {%- endcapture -%}
+          {%- capture entrytype -%}{{entry.booktitle}}{%- endcapture -%}
         {%- elsif thesis contains entry.type -%}
-          {%- capture entrytype -%}<em>{{entry.school}}</em> {%- endcapture -%}
+          {%- capture entrytype -%}<em>{{entry.school}}</em>{%- endcapture -%}
         {%- else -%}
           {%- capture entrytype -%}{%- endcapture -%}
         {%- endif -%}

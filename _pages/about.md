@@ -1,26 +1,32 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: left
+  image: KC.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+latest_posts: false  # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am currently pursuing my third year as a PhD student in the Department of Linguistics, within the Division of Psychology and Language Sciences at University College London. I work with [Dr. Wing-Yee Chow](https://www.ucl.ac.uk/~ucjtwyc/Home.html) and [Dr. Andrea Santi](https://profiles.ucl.ac.uk/34103-andrea-santi/about) on psycholinguistics and sentence processing. More specifically, my research focuses on predictive mechanisms in real-time language comprehension. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Before starting my PhD, I worked briefly as a research assistant at Beijing Normal University under the mentorship of [Dr. Taomei Guo](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Gzz/d7ea1219c8074270bba5c736af040ba7.htm). I completed my undergraduate studies at Nankai University, where I was first introduced to the fascinating world of the psychology of language in a third-year course taught by [Dr. Quansheng Xia](https://hyxy.nankai.edu.cn/info/1253/2778.htm), who then supervised my undergraduate thesis. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+<br>
+My current research interests encompass:
+- The mechanisms by which comprehenders generate predictions for upcoming language in real-time
+- The ability of comprehenders to use incoming information to update their predictions
+- The impact of violated predictions on subsequent language processing
+- The role of domain-general cognitive processes in the generation and updating of predictions
+
+To explore these questions, I have used a range of methods and techniques, including reaction time, visual-world eye tracking, mouse tracking, pupillometry, and event-related potential. I believe that employing different approaches that are complimentary to each other can lead to a more robust and comprehensive understanding of research questions.
+
+Don't hesitate to reach out to me through the contact methods you'll find at the bottom of this page. I'm always happy to talk about research. Looking forward to hearing from you! 

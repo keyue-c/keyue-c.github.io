@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Kayla Keyue Chen | 陈珂月 # the website title (if blank, full name will be used instead)
 first_name: Kayla
 middle_name: Keyue
-last_name: Chen | 陈珂月
+last_name: Chen
 email: keyue.chen.19@ucl.ac.uk
 description: 
 footer_text: > # the ">" symbol means to ignore newlines until "footer_text:"

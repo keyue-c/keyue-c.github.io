@@ -13,20 +13,6 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h6 class="font-weight-bold">Pupillometry in Linguistic Research</h6>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Psycholinguistics: The Eye-tracking Method and its Applications in Language Research, <a href="https://sites.google.com/view/ucllinguisticsautumnschool2023/">UCL Linguistics Autumn School</a>, University College London, 2023</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"><a href="/assets/pdf/teaching/20231109_Pupillometry_KC.pdf">slides</a></li>
-    </ul>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
         <h6 class="font-weight-bold">Language and Communication (BSc)</h6>
       </div>
     </div>
@@ -36,12 +22,6 @@ nav_order: 4
     </ul>
   </div>
 </div>
-
-
-
-
-
-
 
 
 
@@ -109,10 +89,21 @@ nav_order: 4
 
 
 
+<h3 class="mt-4"><em>Short Courses, Workshops, & Guest Lecturer</em></h3>
 
-
-
-<h3 class="mt-4"><em>Workshop & Short Courses</em></h3>
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h6 class="font-weight-bold">Pupillometry in Linguistic Research</h6>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Psycholinguistics: The Eye-tracking Method and its Applications in Language Research, <a href="https://sites.google.com/view/ucllinguisticsautumnschool2023/">UCL Linguistics Autumn School</a>, University College London, 2023</h6>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item"><a href="/assets/pdf/teaching/20231109_Pupillometry_KC.pdf">slides</a></li>
+    </ul>
+  </div>
+</div>
 
 <div class="card mt-3">
   <div class="p-3">

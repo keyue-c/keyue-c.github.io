@@ -65,7 +65,7 @@ nav_order: 4
         <h6 class="font-weight-bold">Research Methods: Principles, Skills and Applications (MSc)</h6>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Peer tutor, University College London, 2022 </h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Peer tutor, University College London, 2019 </h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"><a href="https://www.ucl.ac.uk/module-catalogue/modules/research-methods-principles-skills-and-applications-PALS0048">module information</a></li>
     </ul>

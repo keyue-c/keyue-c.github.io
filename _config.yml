@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Kayla Keyue Chen | 陈珂月 # the website title (if blank, full name will be used instead)
+title: Kayla Keyue Chen # the website title (if blank, full name will be used instead)
 first_name: Kayla
 middle_name: Keyue
 last_name: Chen
@@ -10,7 +10,6 @@ email: keyue.chen.19@ucl.ac.uk
 description: 
 footer_text: > # the ">" symbol means to ignore newlines until "footer_text:"
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)

@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am currently pursuing my third year as a PhD student in the Department of Linguistics, within the Division of Psychology and Language Sciences at University College London. I work with [Dr. Wing-Yee Chow](https://www.ucl.ac.uk/~ucjtwyc/Home.html) and [Dr. Andrea Santi](https://profiles.ucl.ac.uk/34103-andrea-santi/about) on psycholinguistics and sentence processing. More specifically, my research focuses on predictive mechanisms in real-time language comprehension. 
+Hello! My name is Kayla, or Keyue Chen (陈珂月). I am currently pursuing my third year as a PhD student in the Department of Linguistics, within the Division of Psychology and Language Sciences at University College London. I work with [Dr. Wing-Yee Chow](https://www.ucl.ac.uk/~ucjtwyc/Home.html) and [Dr. Andrea Santi](https://profiles.ucl.ac.uk/34103-andrea-santi/about) on psycholinguistics and sentence processing. More specifically, my research focuses on predictive mechanisms in real-time language comprehension. 
 
 Before starting my PhD, I worked briefly as a research assistant at Beijing Normal University under the mentorship of [Dr. Taomei Guo](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Gzz/d7ea1219c8074270bba5c736af040ba7.htm). I completed my undergraduate studies at Nankai University, where I was first introduced to the fascinating world of the psychology of language in a third-year course taught by [Dr. Quansheng Xia](https://hyxy.nankai.edu.cn/info/1253/2778.htm), who then supervised my undergraduate thesis. 
 

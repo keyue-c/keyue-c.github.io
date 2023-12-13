@@ -20,7 +20,6 @@ Hello! My name is Kayla, or Keyue Chen (陈珂月). I am currently pursuing my t
 
 Before starting my PhD, I worked briefly as a research assistant at Beijing Normal University under the mentorship of [Dr. Taomei Guo](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Gzz/d7ea1219c8074270bba5c736af040ba7.htm). I completed my undergraduate studies at Nankai University, where I was first introduced to the fascinating world of the psychology of language in a third-year course taught by [Dr. Quansheng Xia](https://hyxy.nankai.edu.cn/info/1253/2778.htm), who then supervised my undergraduate thesis. 
 
-<br>
 My current research interests encompass:
 - The mechanisms by which comprehenders generate predictions for upcoming language in real-time
 - The ability of comprehenders to use incoming information to update their predictions

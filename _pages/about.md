@@ -28,4 +28,4 @@ My current research interests encompass:
 
 To explore these questions, I have used a range of methods and techniques, including reaction time, visual-world eye tracking, mouse tracking, pupillometry, and event-related potential. I believe that employing different approaches that are complimentary to each other can lead to a more robust and comprehensive understanding of research questions.
 
-Don't hesitate to reach out to me through the contact methods you'll find at the bottom of this page. I'm always happy to talk about research. Looking forward to hearing from you! 
+You can read about my [publications](https://keyue-c.github.io/publications/), [conference presentations](https://keyue-c.github.io/conference/), [teaching](https://keyue-c.github.io/teaching/), and [CV](https://keyue-c.github.io/cv/). Don't hesitate to reach out to me through the contact methods you'll find at the bottom of this page. I'm always happy to talk about research. Looking forward to hearing from you! 

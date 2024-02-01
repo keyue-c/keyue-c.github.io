@@ -114,7 +114,7 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">University College London, 2022</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"><a href="/assets/html/PLINSTAT-lab-1-with-code.html" target="_blank">lab1</a> &nbsp; <a href="/assets/html/PLINSTAT-lab-2-with-code.html" target="_blank">lab2</a> &nbsp; <a href="/assets/html/PLINSTAT-lab-2-exercise-with-code.html" target="_blank">lab2-exercise</a></li>
+      <li class="list-group-item"><a href="/assets/html/PLINSTAT-lab-1-with-code.html">lab1</a> &nbsp; <a href="/assets/html/PLINSTAT-lab-2-with-code.html">lab2</a> &nbsp; <a href="/assets/html/PLINSTAT-lab-2-exercise-with-code.html">lab2-exercise</a></li>
     </ul>
   </div>
 </div>

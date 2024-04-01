@@ -10,7 +10,7 @@ nav_order: 2
 
 <!--Selected publications in reversed chronological order. For full list please visit my Google Scholar page-->
 
-Also see [Google Scholar](https://scholar.google.com/citations?user=4wqObPwAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kayla-Keyue-Chen). 
+also see [Google Scholar](https://scholar.google.com/citations?user=4wqObPwAAAAJ&hl=en) and [ResearchGate](https://www.researchgate.net/profile/Kayla-Keyue-Chen). 
 
 <div class="publications">
 

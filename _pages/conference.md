@@ -7,6 +7,9 @@ nav: true
 nav_order: 3
 ---
 <!-- _pages/conference.md -->
+
+\* equal contributions
+
 <div class="publications">
 
 {% bibliography --file myconference %}

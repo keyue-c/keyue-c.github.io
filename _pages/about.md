@@ -20,12 +20,12 @@ Hello! My name is Kayla, or Keyue Chen (陈珂月). I am currently pursuing my t
 
 Before starting my PhD, I worked briefly as a research assistant at Beijing Normal University under the mentorship of [Dr. Taomei Guo](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Gzz/d7ea1219c8074270bba5c736af040ba7.htm). I completed my undergraduate studies at Nankai University, where I was first introduced to the fascinating world of the psychology of language in a third-year course taught by [Dr. Quansheng Xia](https://hyxy.nankai.edu.cn/info/1253/2778.htm), who then supervised my undergraduate thesis. 
 
-My current research interests encompass:
+My current research interests include:
 - The mechanisms by which comprehenders generate predictions for upcoming language in real-time
 - The ability of comprehenders to use incoming information to update their predictions
 - The impact of violated predictions on subsequent language processing
 - The role of domain-general cognitive processes in the generation and updating of predictions
 
-To explore these questions, I have used a range of methods and techniques, including reaction time, visual-world eye tracking, mouse tracking, pupillometry, and event-related potential. I believe that employing different approaches that are complimentary to each other can lead to a more robust and comprehensive understanding of research questions.
+To explore these questions, I have used a range of methods and techniques, including reaction time, visual-world eye tracking, mouse tracking, pupillometry, and event-related potential.
 
 You can read about my [publications](https://keyue-c.github.io/publications/), [conference presentations](https://keyue-c.github.io/conference/), [teaching](https://keyue-c.github.io/teaching/), and [CV](https://keyue-c.github.io/cv/). Don't hesitate to reach out to me through the contact methods you'll find at the bottom of this page. I'm always happy to talk about research. Looking forward to hearing from you! 

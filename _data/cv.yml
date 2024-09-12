@@ -34,29 +34,6 @@
       description:
         - "Primary investigator: Dr. Taomei Guo"
 
-- title: Scholarships & Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items: 
-        - Society for Human Sentence Processing Travel Award
-    - year: 2022
-      items: 
-        - Yuen Ren Chao Language Experiment Star, Nankai University
-    - year: 2021-2024
-      items: 
-        - UCL Graduate & Overseas Research Scholarship
-        - Oxford-Kaifeng Graduate Scholarship (declined)
-    - year: 2020
-      items: 
-        - Dean's List of top performing students, Faculty of Brain Sciences, UCL
-    - year: 2019
-      items: 
-        - Nomination Award of the 12th Zhou Enlai Scholarship, Nankai University
-    - year: 2016-2019 
-      items: 
-        - China National Scholarship, Nankai University
-
 - title: Skills
   type: nested_list
   contents:

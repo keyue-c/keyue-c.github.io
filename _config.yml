@@ -48,7 +48,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 900px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -116,18 +116,18 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-# blog_name: My blog # blog_name will be displayed in your blog page
-# blog_nav_title: Blog # your blog must have a title for it to be displayed in the nav bar
-# blog_description: a description of my blog
-# permalink: /blog/:year/:title/
+blog_name: Adventures # blog_name will be displayed in your blog page
+blog_nav_title: Posts # your blog must have a title for it to be displayed in the nav bar
+blog_description: the time to start is now
+permalink: /blog/:year/:title/
 
-# # Pagination
-# pagination:
-#   enabled: true
+# Pagination
+pagination:
+  enabled: true
 
-# related_blog_posts:
-#   enabled: true
-#   max_related: 5
+related_blog_posts:
+  enabled: true
+  max_related: 3
 
 # # Giscus comments (RECOMMENDED)
 # # Follow instructions on https://giscus.app/ to setup for your repo to fill out
@@ -165,7 +165,7 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
-    output: true
+    output: false
     permalink: /projects/:path/
 
 announcements:
@@ -259,8 +259,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: ['prediction', 'revision', 'visual-world', 'eye-tracking', 'ERP'] # these tags will be displayed on the front page of your blog
+display_categories: ['research','tutorial'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
@@ -302,7 +302,7 @@ enable_publication_badges:
 filtered_bibtex_keywords: [abbr, abstract, apa_ref, arxiv, bibtex_show, html, pdf, selected, supp, blog, code, data, poster, slides, website, preview, altmetric]
 
 # Maximum number of authors to be shown for each publication (more authors are visible on click)
-max_author_limit: 5  # leave blank to always show all authors
+max_author_limit: 6  # leave blank to always show all authors
 more_authors_animation_delay: 5  # more authors are revealed on click using animation; smaller delay means faster animation
 
 # Enables publication thumbnails. If disabled, none of the publications will display thumbnails, even if specified in the bib entry.

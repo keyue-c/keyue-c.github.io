@@ -153,8 +153,14 @@
           {%- if entry.html %}
             <a href="{{ entry.html }}" class="btn btn-sm z-depth-0" role="button" target="_blank">HTML</a>
           {%- endif %}
+          {%- if entry.stimuli %}
+            <a href="{{ entry.stimuli }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Stimuli</a>
+          {%- endif %}
           {%- if entry.data %}
-            <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button" target="_blank">DATA</a>
+            <a href="{{ entry.data }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Data</a>
+          {%- endif %}
+          {%- if entry.code %}
+            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
           {%- endif %}
           {%- if entry.pdf %}
             {% if entry.pdf contains '://' -%}
@@ -172,9 +178,6 @@
           {%- endif %}
           {%- if entry.blog %}
             <a href="{{ entry.blog }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Blog</a>
-          {%- endif %}
-          {%- if entry.code %}
-            <a href="{{ entry.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank">Code</a>
           {%- endif %}
           {%- if entry.poster %}
             {% if entry.poster contains '://' -%}

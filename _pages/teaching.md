@@ -10,7 +10,7 @@ nav_order: 4
 
 <!------------------- Lecturer -------------------->
 
-<h3 class="mt-4"><em>Lecturer</em></h3>
+<h3 class="mt-4">Lecturer</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -54,7 +54,7 @@ nav_order: 4
 
 <!--------------- Teaching Assistant -------------------->
 
-<h3 class="mt-4"><em>Teaching Assistant</em></h3>
+<h3 class="mt-4">Teaching Assistant</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -82,7 +82,7 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h6 class="font-weight-bold">Language and Communication (BSc) </h6> 
+        <h6 class="font-weight-bold">Language and Communication (BA, BSc) </h6> 
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">University College London, Term 2, 2023-24, 2024-25</h6>
@@ -118,7 +118,7 @@ nav_order: 4
         <h6 class="font-weight-bold">Research Methods: Principles, Skills and Applications (MSc) </h6>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Peer tutor, University College London, 2019 </h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Peer tutor, University College London, Term 1-2, 2019 </h6>
   </div>
 </div>
 

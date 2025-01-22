@@ -259,7 +259,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['prediction', 'revision', 'visual-world', 'eye-tracking', 'ERP'] # these tags will be displayed on the front page of your blog
+display_tags: ['prediction', 'prediction-revision', 'visual-world', 'eye-tracking', 'ERP'] # these tags will be displayed on the front page of your blog
 display_categories: ['research','tutorial'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

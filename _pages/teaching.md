@@ -23,7 +23,7 @@ nav_order: 4
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"><a href="/assets/html/PLINSTAT-lab-1-with-code.html" target="_blank">Lab1 Getting familiar with R</a></li> 
       <li class="list-group-item"><a href="/assets/html/PLINSTAT-lab-2-with-code.html" target="_blank">Lab2 Data manipulation and visualisation</a>, 
-          <a href="/assets/html/PLINSTAT-lab-2-exercise--with-code-.html" target="_blank">additional exercise</a</li> 
+          <a href="/assets/html/PLINSTAT-lab-2-exercise--with-code-.html" target="_blank">additional exercise</a></li> 
     </ul>
   </div>
 </div>

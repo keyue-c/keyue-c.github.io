@@ -8,8 +8,7 @@ nav_order: 3
 ---
 <!-- _pages/conference.md -->
 
-Selected conference presentations. 
-\* denotes equal contribution.
+Selected conference presentations. An asterisk (*) indicates equal contribution.
 
 <div class="publications">
 

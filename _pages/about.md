@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello! My name is Kayla, or Keyue Chen (陈珂月). I am currently pursuing my fourth year as a PhD student in the Department of Linguistics, within the Division of Psychology and Language Sciences at University College London. I work with [Dr. Wing-Yee Chow](https://www.ucl.ac.uk/~ucjtwyc/Home.html) and [Dr. Andrea Santi](https://profiles.ucl.ac.uk/34103-andrea-santi/about) on psycholinguistics and sentence processing. 
 
-Currently, my research focuses on (1) how comprehenders generate and update predictions about upcoming language in real-time, and (2) the potential costs of prediction violations. I have used various methods, such as ***reaction time measurements***, ***visual-world eye tracking***, ***mouse tracking***, ***pupillometry***, and ***event-related potentials***, to study these questions. 
+My current research investigates (1) how comprehenders generate and update real-time predictions about upcoming language, and (2) the potential costs associated with prediction violations. To address these questions, I have employed a range of methods, including reaction time measurements, visual-world eye tracking, mouse tracking, pupillometry, and event-related potentials. 
 
 Before starting my PhD, I worked briefly as a research assistant at Beijing Normal University under the mentorship of [Dr. Taomei Guo](https://brain.bnu.edu.cn/English/Faculty/CurrentFaculty/Gzz/d7ea1219c8074270bba5c736af040ba7.htm). I completed my undergraduate studies at Nankai University, where I was supervised by [Dr. Quansheng Xia](https://hyxy.nankai.edu.cn/info/1253/2778.htm). 
 

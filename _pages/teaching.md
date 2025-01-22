@@ -21,7 +21,9 @@ nav_order: 4
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">University College London, May-June 2022-2024</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item"><a href="/assets/html/PLINSTAT-lab-1-with-code.html" target="_blank">Lab1</a> &nbsp; <a href="/assets/html/PLINSTAT-lab-2-with-code.html" target="_blank">Lab2</a> &nbsp; <a href="/assets/html/PLINSTAT-lab-2-exercise--with-code-.html" target="_blank">Lab2-exercise</a></li>
+      <li class="list-group-item"><a href="/assets/html/PLINSTAT-lab-1-with-code.html" target="_blank">Lab1 Getting familiar with R</a></li> 
+      <li class="list-group-item"><a href="/assets/html/PLINSTAT-lab-2-with-code.html" target="_blank">Lab2 Data manipulation and visualisation</a>, 
+          <a href="/assets/html/PLINSTAT-lab-2-exercise--with-code-.html" target="_blank">additional exercise</a</li> 
     </ul>
   </div>
 </div>
@@ -33,7 +35,7 @@ nav_order: 4
         <h6 class="font-weight-bold">Pupillometry in Linguistic Research</h6>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Psycholinguistics: The Eye-tracking Method and its Applications in Language Research, <a href="https://sites.google.com/view/ucllinguisticsautumnschool2023/">UCL Linguistics Autumn School</a> <br> University College London, Nov 2023</h6>
+    <h6 class="font-italic mt-2 mt-sm-0">In <b>Psycholinguistics: The Eye-tracking Method and its Applications in Language Research</b>, <a href="https://sites.google.com/view/ucllinguisticsautumnschool2023/">UCL Linguistics Autumn School</a> <br> University College London, Nov 2023</h6>
     <ul class="card-text font-weight-light list-group list-group-flush">
       <li class="list-group-item"><a href="/assets/pdf/teaching/20231109_Pupillometry_KC.pdf" target="_blank">Slides</a></li>
     </ul>

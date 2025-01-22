@@ -73,7 +73,7 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h6 class="font-weight-bold">Experimental Linguistics Laboratory (BSc) </h6> 
+        <h6 class="font-weight-bold">Experimental Linguistics Laboratory (BA) </h6> 
       </div>
     </div>
     <h6 class="font-italic mt-2 mt-sm-0">University College London, Term 1, 2024-25</h6>

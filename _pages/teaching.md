@@ -121,7 +121,7 @@ nav_order: 4
         <h6 class="font-weight-bold">Research Methods: Principles, Skills and Applications (MSc) </h6>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Peer tutor, University College London, Term 1-2, 2019 </h6>
+    <h6 class="font-italic mt-2 mt-sm-0">Peer tutor, University College London, Term 1-2, 2019-20 </h6>
   </div>
 </div>
 

@@ -4,14 +4,14 @@
     - name: Name
       value: Kayla Keyue Chen | 陈珂月
     - name: Summary
-      value: Fourth-year PhD student with an interest in psycholinguistics and neurolinguistics, particularly in the predictive mechanisms in real-time language comprehension, and the interaction between language processing and (domain-general) cognitive processes (e.g., cognitive control, memory, attention).
+      value: Post-doctoral researcher at South China Normal University, studying real-time language comprehension.
 
 - title: Education
   type: time_table
   contents:
     - title: PhD in Psycholinguistics
       institution: University College London
-      year: 2021 - present
+      year: 2021 - 2025
       description:
         - "Supervisor: Dr. Wing-Yee Chow, Dr. Andrea Santi"
     - title: MRes in Speech, Language and Cognition
@@ -23,7 +23,16 @@
       institution: Nankai University
       year: 2015 - 2019
       description:
-        - "Supervisor: Dr. Quansheng Xia"
+        - "Supervisor: Prof. Quansheng Xia"
+
+- title: Employment
+  type: time_table
+  contents:
+    - title: Post-doctoral researcher
+      institution: Department of Psychology, South China Normal University
+      year: 2025 - present
+      description:
+        - "Advisor: Prof. Suiping Wang"
 
 - title: Research experience
   type: time_table

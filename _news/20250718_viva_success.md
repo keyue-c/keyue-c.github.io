@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-11-04
+date: 2025-07-18
 inline: true
 related_posts: false
 ---
 
-Excited to announce that I have started a new position as a post-doctoral researcher at South China Normal University! Looking forward to diving into new projects on language processing!
+***I passed my PhD viva today!*** 🎉🎉🎉

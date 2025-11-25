@@ -4,7 +4,7 @@
     - name: Name
       value: Kayla Keyue Chen | 陈珂月
     - name: Summary
-      value: Post-doctoral researcher at South China Normal University, studying real-time language comprehension.
+      value: Postdoctoral researcher at South China Normal University, studying real-time language comprehension.
 
 - title: Education
   type: time_table
@@ -28,7 +28,7 @@
 - title: Employment
   type: time_table
   contents:
-    - title: Post-doctoral researcher
+    - title: Postdoctoral Researcher
       institution: Department of Psychology, South China Normal University
       year: 2025 - present
       description:

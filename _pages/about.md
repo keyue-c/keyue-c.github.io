@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: left
-  image: profile_img/KC.jpg
+  image: profile_img/2025KC.jpg
   image_circular: true # crops the image to make it circular
   more_info: 
 
@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! My name is Kayla, or Keyue Chen (陈珂月). I am currently a post-doctoral researcher in the Department of Psychology at South China Normal University. I am also a member of the [Reading and Development in Children and Adolescents Laboratory](http://read.scnu.edu.cn/), where I work primarily with [Prof. Suiping Wang](https://psy.scnu.edu.cn/a/20150624/18.html). I completed my PhD in the Department of Linguistics, Division of Psychology and Language Sciences, University College London. During my time there, I worked with [Dr. Wing-Yee Chow](https://www.ucl.ac.uk/~ucjtwyc/Home.html) and [Dr. Andrea Santi](https://profiles.ucl.ac.uk/34103-andrea-santi/about), focusing on psycholinguistics and sentence processing.
+Hello! My name is Kayla, or Keyue Chen (陈珂月). I am currently a postdoctoral researcher in the Department of Psychology at South China Normal University. I am also a member of the [Reading and Development in Children and Adolescents Laboratory](http://read.scnu.edu.cn/), where I work primarily with [Prof. Suiping Wang](https://psy.scnu.edu.cn/a/20150624/18.html). I completed my PhD in the Department of Linguistics, Division of Psychology and Language Sciences, University College London. During my time there, I worked with [Dr. Wing-Yee Chow](https://www.ucl.ac.uk/~ucjtwyc/Home.html) and [Dr. Andrea Santi](https://profiles.ucl.ac.uk/34103-andrea-santi/about), focusing on psycholinguistics and sentence processing.
 
 My current research investigates (1) how comprehenders generate and update real-time predictions about upcoming language, and (2) the potential cognitive costs associated with violated predictions. To address these questions, I have employed a range of methods, including reaction time measurements, eye tracking, mouse tracking, pupillometry, and event-related potentials.
 

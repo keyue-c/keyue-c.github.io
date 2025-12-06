@@ -10,7 +10,20 @@ nav_order: 4
 
 <!------------------- Lecturer -------------------->
 
-<h3 class="mt-4">Lecturer</h3>
+<h3 class="mt-4">Courses</h3>
+
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h6 class="font-weight-bold">Chinese Traditional Idiom (MA)</h6>
+      </div>
+    </div>
+    <h6 class="font-italic mt-2 mt-sm-0">Nankai University, 2018 </h6>
+  </div>
+</div>
+
+<h3 class="mt-4">Guest Lectures & Workshops</h3>
 
 <div class="card mt-3">
   <div class="p-3">
@@ -42,86 +55,3 @@ nav_order: 4
     </ul>
   </div>
 </div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h6 class="font-weight-bold">Chinese Traditional Idiom (MA)</h6>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Nankai University, 2018 </h6>
-  </div>
-</div>
-
-
-<!--------------- Teaching Assistant -------------------->
-
-<h3 class="mt-4">Teaching Assistant</h3>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h6 class="font-weight-bold">Bi/Multilingualism: Development and Cognition (BA, MA) </h6> 
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">University College London, Term 2, 2024-25</h6>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h6 class="font-weight-bold">Experimental Linguistics Laboratory (BA) </h6> 
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">University College London, Term 1, 2024-25</h6>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h6 class="font-weight-bold">Language and Communication (BSc) </h6> 
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">University College London, Term 2, 2023-24, 2024-25</h6>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h6 class="font-weight-bold">Intermediate Statistical Methods (BSc) </h6>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">University College London, Term 1-2, 2021-22, 2022-23</h6>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h6 class="font-weight-bold">Neurolinguistics (BA, MA) </h6>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">University College London, Term 2, 2021-22 </h6>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h6 class="font-weight-bold">Research Methods: Principles, Skills and Applications (MSc) </h6>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Peer tutor, University College London, Term 1-2, 2019-20 </h6>
-  </div>
-</div>
-
